@@ -1,0 +1,2 @@
+# StaticMania
+For staticmania Task
